@@ -1,14 +1,17 @@
-p {
+.odd {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color:#ff000080;
+    background-color:#ff000080;}
 
-}
+.oddly-cool {font-size: 36px;
+             background-color:#ff000080;}
 
-div {
+#two {
     color:#0000ff;
-    font-size: 36px;
+    font-size: 36px;}
 
-}
+#four {color:#000000; 
+       background-color:#00ff0080 ; 
+       font-size: 24px; 
+       font-weight: bold;}
 
-#p2 {font-size: 24px;}
-#div2 {color:#000000; background-color:#00ff0080 ; font-size: 24px; font-weight: bold;}
+.p3 {background-color:#ff000080;}
